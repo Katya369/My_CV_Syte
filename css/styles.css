@@ -1,0 +1,434 @@
+body {
+  background-color: #002B5B;
+  color: white;
+
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: #8FE3CF;
+  width: 10%;
+  border-width: 12px;
+}
+
+h1 {
+  color: white;
+  font-size: 2vw;
+}
+
+h2 {
+  color: white;
+}
+
+h3 {
+  color: #256D85;
+transform: rotate(-90deg);
+}
+
+a {
+  color: white;
+}
+
+a:hover {
+  color: #8FE3CF;
+}
+height-100{
+    height:100vh;
+}
+.my_borders {
+  border-width: 12px;
+  border-color: #8FE3CF
+}
+.card{
+    width:380px;
+    height:280px;
+}
+
+.ratings{
+    margin-right:10px;
+}
+
+.ratings i{
+
+    color:#cecece;
+    font-size:32px;
+}
+
+.rating-color{
+    color:#256D85 !important;
+}
+
+.review-count{
+    font-weight:400;
+    margin-bottom:2px;
+    font-size:24px !important;
+}
+
+.small-ratings i{
+  color:#cecece;
+}
+.card_color {
+  background-color: #8FE3CF;
+}
+.review-stat{
+    font-weight:300;
+    font-size:18px;
+    margin-bottom:2px;
+    color:#256D85;
+    font-family: 'Open Sans';
+}
+
+.LinkPage2 {
+  position: absolute;
+  top: 75%;
+  left: -9%;
+}
+
+.Employer1 {
+  position: absolute;
+  top: 105%;
+  left: 26%;
+}
+
+.Employer2 {
+
+  position: absolute;
+  left: 42%;
+  top: 81%;
+}
+
+.Employer3 {
+  position: absolute;
+  left: 59%;
+  top: 67%;
+}
+
+.TextEmp1 {
+  position: absolute;
+  width: 5vw;
+  left: 38%;
+  top: 96%;
+}
+
+.TextEmp2 {
+  position: absolute;
+  width: 7.5vw;
+  left: 52%;
+  top: 75%;
+}
+
+.TextEmp3 {
+  position: absolute;
+  width: 7.5vw;
+  right: 20%;
+  left: 70%;
+  top: 62%;
+}
+
+.TextEmp4 {
+  position: absolute;
+  width: 7.5vw;
+  right: 0px;
+  left: 86%;
+  top: 45%;
+}
+
+#h2_2 {
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  color: #8FE3CF;
+  margin-bottom: 7%;
+
+}
+#h3_id {
+  font-size: 1.8vw;
+}
+#bgmy {
+  background-color: #256D85;
+  padding: 1% 10%;
+    font-family: 'Open Sans', sans-serif;
+}
+#footer-title {
+  position: absolute;
+  background-color: #8FE3CF;
+  bottom: 0;
+  width: 100%;
+}
+#p1test {
+  font-size: 100px;
+
+    margin-top: 0px;
+
+}
+#b1test {
+  font-size: 35px;
+}
+#title_nav {
+  background-color: #256D85;
+  width: 100%;
+  padding:5% 15%;
+
+}
+
+#title_nav1 {
+  width: 100%;
+  padding:5% 15%;
+  text-align: center;
+
+}
+#title_nav2 {
+  width: 100%;
+  padding:5% 15%;
+}
+#title_nav3 {
+  width: 100%;
+  padding:5% 15%;
+
+}
+
+#Abilities {
+background-color: #256D85;
+padding: 7% 0%;
+}
+
+td {
+  font-size: 0.7vw;
+}
+
+
+.bottom_pic1 {
+
+  position: relative;
+  bottom: 0%;
+  left: 80%;
+  height: 20%;
+  width: 20%;
+}
+.bottom_pic2 {
+position: absolute;
+z-index: -1;
+  left: 70%;
+  top:195%
+
+
+}
+}
+.position_text {
+  position: absolute;
+}
+.Picture1 {
+  position: absolute;
+  left: 30%;
+  top: 0px;
+}
+
+.Picture2 {
+  position: absolute;
+  top: 0px;
+  left: 5%;
+}
+.feat-box1 {
+
+  padding-top: 70px;
+
+}
+
+
+.pic1size {
+  width: 100%;
+  height: 100%;
+}
+
+.Picture18 {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  left: 0px;
+  bottom: 0px;
+}
+
+.one_box {
+  position: absolute;
+  top: 17%;
+  left: 15%;
+}
+
+.two_box {
+  position: absolute;
+  top: 3%;
+  left: 25%;
+}
+
+.three_box {
+  position: absolute;
+  top: 15%;
+  left: 28%;
+  width: 14%;
+}
+
+.Four_box {
+  position: absolute;
+  top: 15%;
+  left: 45%;
+  width: 14%;
+}
+
+.psize {
+  font-size: 0.7vw;
+  display: block;
+}
+
+.usize {
+  font-size: 0.7vw;
+  display: block;
+  padding-left: 0px;
+}
+
+.empsize {
+  font-size: 2vw;
+  display: block;
+}
+
+.bsize {
+  font-size: 1vw;
+  display: block;
+  font-family: sans-serif;
+}
+
+.Picture5 {
+  position: absolute;
+  right: -12%;
+  top: 15%;
+}
+
+.Picture6 {
+  position: absolute;
+  right: -10%;
+  top: 20%;
+}
+
+.Picture7 {
+  position: absolute;
+  right: 5%;
+  top: 38%;
+}
+
+.Picture8 {
+  position: absolute;
+  right: 25%;
+  top: 50%;
+}
+
+.Picture9 {
+  position: absolute;
+  right: 44%;
+  top: 76%;
+}
+
+.Picture4 {
+  position: absolute;
+  left: -75%;
+  right: 35%;
+  top: -15%;
+  bottom: -100%;
+}
+
+.Picture3 {
+  position: absolute;
+  left: -75%;
+  right: 42%;
+  top: -15%;
+  bottom: -100%;
+}
+
+.Picture12 {
+  position: absolute;
+  top: 0px;
+  height: 290px;
+  width: 518px;
+  padding-left: 200px;
+  left: 0px;
+  padding-right: 815px;
+  padding-top: 300px;
+  padding-bottom: 532px;
+}
+
+.Picture13 {
+  position: absolute;
+  top: 19%;
+  right: 60%
+}
+
+.Picture13_1 {
+  position: absolute;
+  top: 20%;
+  left: 60%;
+}
+
+.Picture13_2 {
+  position: absolute;
+  top: 20%;
+  left: 80%;
+}
+
+.MainPic {
+  position: absolute;
+  right: 40%;
+  left: -60%;
+  top: -85%;
+}
+
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #123347);
+  background-image: -moz-linear-gradient(top, #3498db, #123347);
+  background-image: -ms-linear-gradient(top, #3498db, #123347);
+  background-image: -o-linear-gradient(top, #3498db, #123347);
+  background-image: linear-gradient(to bottom, #3498db, #123347);
+  -webkit-border-radius: 25;
+  -moz-border-radius: 25;
+  border-radius: 1.3vw;
+  text-shadow: 0vw 0.05vw 0.68vw #103042;
+  font-family: Times New Roman;
+  color: #ffffff;
+  font-size: 2vw;
+  padding: 0.52vw 0.52vw 0.52vw 0.52vw;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #123347;
+  background-image: -webkit-linear-gradient(top, #123347, #3498db);
+  background-image: -moz-linear-gradient(top, #123347, #3498db);
+  background-image: -ms-linear-gradient(top, #123347, #3498db);
+  background-image: -o-linear-gradient(top, #123347, #3498db);
+  background-image: linear-gradient(to bottom, #123347, #3498db);
+  text-decoration: none;
+}
+
+.contakt_me {
+  position: absolute;
+  bottom: 5%;
+  left: -6%;
+  top: 98%;
+}
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat"
+}
+.navbar-brand {
+  font-size: 2rem;
+  font-weight: bold;
+  font-family: 'Open Sans', sans-serif;
+}
+.postextnavbar {
+  right: 0px;
+}
+.test {
+  position: absolute;
+  bottom: auto;
+  right: 60px;
+  left:0px;
+  text-align: center;
+  top: 150%;
+}

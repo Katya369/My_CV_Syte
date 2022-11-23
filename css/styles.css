@@ -12,13 +12,9 @@ hr {
 }
 
 h1 {
-  color: white;
   font-size: 2vw;
 }
 
-h2 {
-  color: white;
-}
 
 h3 {
   color: #256D85;
@@ -32,8 +28,15 @@ a {
 a:hover {
   color: #8FE3CF;
 }
+td {
+  font-size: 0.7vw;
+}
 height-100{
     height:100vh;
+}
+.title_nav1-img {
+  width: 40%;
+  height:40%;
 }
 .my_borders {
   border-width: 12px;
@@ -180,20 +183,12 @@ height-100{
   width: 100%;
   padding:5% 15%;
 }
-#title_nav3 {
-  width: 100%;
-  padding:5% 15%;
-
-}
 
 #Abilities {
 background-color: #256D85;
 padding: 7% 0%;
 }
 
-td {
-  font-size: 0.7vw;
-}
 
 
 .bottom_pic1 {
@@ -230,7 +225,7 @@ z-index: -1;
 .feat-box1 {
 
   padding-top: 70px;
-
+margin-top: 10%;
 }
 
 

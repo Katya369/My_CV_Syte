@@ -6,7 +6,6 @@ body {
 
 hr {
   border-style: dotted none none;
- 
   border-color: #8FE3CF;
   width: 10%;
   border-width: 12px;
@@ -38,6 +37,7 @@ height-100{
 .title_nav1-img {
   width: 30%;
   height:30%;
+  margin: 5%;
 }
 .my_borders {
   border-width: 12px;
@@ -136,7 +136,10 @@ height-100{
   left: 86%;
   top: 45%;
 }
+.title_nav1-text {
+  padding: 1.5rem;
 
+}
 #h2_2 {
   font-family: 'Open Sans', sans-serif;
   text-align: center;

@@ -6,6 +6,7 @@ body {
 
 hr {
   border-style: dotted none none;
+ 
   border-color: #8FE3CF;
   width: 10%;
   border-width: 12px;
@@ -139,7 +140,7 @@ height-100{
 #h2_2 {
   font-family: 'Open Sans', sans-serif;
   text-align: center;
-  color: red;
+  color: #8FE3CF;
   margin-bottom: 7%;
 
 }
